@@ -1,0 +1,33 @@
+payload:
+  # =========================
+  # Private PT Trackers
+  # tracker / PT 域名
+  # =========================
+  - DOMAIN-SUFFIX,audiences.me
+  - DOMAIN-SUFFIX,cspt.top
+  - DOMAIN-SUFFIX,et8.org
+  - DOMAIN-SUFFIX,hddolby.com
+  - DOMAIN-SUFFIX,hdfans.org
+  - DOMAIN-SUFFIX,hdhome.org
+  - DOMAIN-SUFFIX,hhanclub.top
+  - DOMAIN-SUFFIX,iptorrents.com
+  - DOMAIN-SUFFIX,open.cd
+  - DOMAIN-SUFFIX,ourbits.club
+  - DOMAIN-SUFFIX,piggo.me
+  - DOMAIN-SUFFIX,pt.agsvpt.cn
+  - DOMAIN-SUFFIX,pt.btschool.club
+  - DOMAIN-SUFFIX,pt.keepfrds.com
+  - DOMAIN-SUFFIX,ptchdbits.co
+  - DOMAIN-SUFFIX,pterclub.net
+  - DOMAIN-SUFFIX,ptsbao.club
+  - DOMAIN-SUFFIX,qingwapt.com
+  - DOMAIN-SUFFIX,rousi.zip
+  - DOMAIN-SUFFIX,springsunday.net
+  - DOMAIN-SUFFIX,sunnypt.top
+  - DOMAIN-SUFFIX,tjupt.org
+  - DOMAIN-SUFFIX,totheglory.im
+  - DOMAIN-SUFFIX,hdkyl.in
+  - DOMAIN-SUFFIX,tangpt.top
+  - DOMAIN-SUFFIX,zhuque.in
+  - DOMAIN-SUFFIX,zmpt.cc
+
