@@ -1,0 +1,8 @@
+# LoL / 腾讯游戏 必须 real-ip
+DOMAIN-SUFFIX,qq.com
+DOMAIN-SUFFIX,game.qq.com
+DOMAIN-SUFFIX,lol.qq.com
+DOMAIN-SUFFIX,ptlogin2.qq.com
+DOMAIN-SUFFIX,game.qq.com
+DOMAIN-SUFFIX,tenpay.com
+DOMAIN-SUFFIX,tencent.com
