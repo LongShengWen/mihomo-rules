@@ -1,0 +1,9 @@
+payload:
+  # =========================
+  # 补充的域名
+  # =========================
+  - DOMAIN-SUFFIX,nodeseek.com
+  - DOMAIN-SUFFIX,star-space.net
+  - DOMAIN-SUFFIX,movie-pilot.org
+  - DOMAIN-KEYWORD,playwright
+
