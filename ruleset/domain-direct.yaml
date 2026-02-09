@@ -4,4 +4,4 @@ payload:
   # =========================
   - DOMAIN-SUFFIX,rollbar.com
   - DOMAIN-SUFFIX,debugbear.com
-
+  - DOMAIN-SUFFIX,oraclecloud.com
