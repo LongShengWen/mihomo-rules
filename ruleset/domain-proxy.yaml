@@ -16,3 +16,14 @@ payload:
   - DOMAIN-SUFFIX,twilio.com
   - DOMAIN-SUFFIX,unpkg.com
   - DOMAIN-SUFFIX,ip.sb
+  # Cloudflare 隐私 / ECH / DoH
+  - DOMAIN-SUFFIX,nel.cloudflare.com
+  - DOMAIN-SUFFIX,cloudflare-ech.com
+  - DOMAIN,one.one.one.one
+  # DNS / 隐私测试
+  - DOMAIN-SUFFIX,dns.test.perfect-privacy.com
+  # IP / 出口检测
+  - DOMAIN-SUFFIX,ipify.org
+  - DOMAIN-SUFFIX,ipapi.co
+  - DOMAIN-SUFFIX,ip.sb
+  - DOMAIN-SUFFIX,ip-api.com
