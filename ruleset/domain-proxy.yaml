@@ -6,4 +6,12 @@ payload:
   - DOMAIN-SUFFIX,star-space.net
   - DOMAIN-SUFFIX,movie-pilot.org
   - DOMAIN-KEYWORD,playwright
+  - DOMAIN-SUFFIX,ip-api.com
+  - DOMAIN-SUFFIX,meowvps.com
+  - DOMAIN-SUFFIX,cloudflare-ech.com
+  - DOMAIN-SUFFIX,cloudflare-dns.com
+  - DOMAIN-SUFFIX,mullvad.net
+  - DOMAIN-SUFFIX,surfsharkdns.com
+  - DOMAIN-SUFFIX,stun.cloudflare.com
+  - DOMAIN-SUFFIX,twilio.com
 
