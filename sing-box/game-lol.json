@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "riotgames.com",
+        "leagueoflegends.com",
+        "pvp.net",
+        "riotcdn.net",
+        "akamaized.net"
+      ],
+      "ip_cidr": [
+        "119.28.0.0/16",
+        "129.226.0.0/16",
+        "43.128.0.0/10",
+        "101.226.0.0/15",
+        "113.96.0.0/12"
+      ]
+    }
+  ]
+}

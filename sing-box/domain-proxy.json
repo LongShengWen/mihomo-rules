@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "nodeseek.com",
+        "star-space.net",
+        "movie-pilot.org",
+        "ip-api.com",
+        "meowvps.com",
+        "cloudflare-ech.com",
+        "cloudflare-dns.com",
+        "mullvad.net",
+        "surfsharkdns.com",
+        "stun.cloudflare.com",
+        "twilio.com",
+        "unpkg.com",
+        "ip.sb",
+        "nel.cloudflare.com",
+        "dns.test.perfect-privacy.com",
+        "ipify.org",
+        "ipapi.co"
+      ],
+      "domain": [
+        "one.one.one.one"
+      ],
+      "domain_keyword": [
+        "playwright"
+      ]
+    }
+  ]
+}

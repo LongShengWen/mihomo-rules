@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "audiences.me",
+        "cspt.top",
+        "et8.org",
+        "hddolby.com",
+        "hdfans.org",
+        "hdhome.org",
+        "hhanclub.top",
+        "iptorrents.com",
+        "open.cd",
+        "ourbits.club",
+        "piggo.me",
+        "pt.agsvpt.cn",
+        "pt.btschool.club",
+        "pt.keepfrds.com",
+        "ptchdbits.co",
+        "pterclub.net",
+        "ptsbao.club",
+        "qingwapt.com",
+        "rousi.zip",
+        "springsunday.net",
+        "sunnypt.top",
+        "tjupt.org",
+        "totheglory.im",
+        "hdkyl.in",
+        "tangpt.top",
+        "zhuque.in",
+        "zmpt.cc"
+      ]
+    }
+  ]
+}
