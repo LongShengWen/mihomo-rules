@@ -16,6 +16,7 @@ payload:
   - DOMAIN-SUFFIX,twilio.com
   - DOMAIN-SUFFIX,unpkg.com
   - DOMAIN-SUFFIX,ip.sb
+  - DOMAIN-SUFFIX,gstatic.com
   # Cloudflare 隐私 / ECH / DoH
   - DOMAIN-SUFFIX,nel.cloudflare.com
   - DOMAIN-SUFFIX,cloudflare-ech.com
