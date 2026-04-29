@@ -5,11 +5,13 @@ payload:
   # =========================
   - DOMAIN-SUFFIX,audiences.me
   - DOMAIN-SUFFIX,cspt.top
+  - DOMAIN-SUFFIX,cspt.cc
   - DOMAIN-SUFFIX,et8.org
   - DOMAIN-SUFFIX,hddolby.com
   - DOMAIN-SUFFIX,hdfans.org
   - DOMAIN-SUFFIX,hdhome.org
   - DOMAIN-SUFFIX,hhanclub.top
+  - DOMAIN-SUFFIX,hhanclub.net
   - DOMAIN-SUFFIX,iptorrents.com
   - DOMAIN-SUFFIX,open.cd
   - DOMAIN-SUFFIX,ourbits.club
@@ -19,6 +21,7 @@ payload:
   - DOMAIN-SUFFIX,pt.keepfrds.com
   - DOMAIN-SUFFIX,ptchdbits.co
   - DOMAIN-SUFFIX,pterclub.net
+  - DOMAIN-SUFFIX,rainbowisland.co
   - DOMAIN-SUFFIX,ptsbao.club
   - DOMAIN-SUFFIX,qingwapt.com
   - DOMAIN-SUFFIX,rousi.zip
@@ -30,4 +33,7 @@ payload:
   - DOMAIN-SUFFIX,tangpt.top
   - DOMAIN-SUFFIX,zhuque.in
   - DOMAIN-SUFFIX,zmpt.cc
+  - DOMAIN-SUFFIX,cinefiles.info
+  - DOMAIN-SUFFIX,trackers.work
+  - DOMAIN-SUFFIX,ptskit.org
 
