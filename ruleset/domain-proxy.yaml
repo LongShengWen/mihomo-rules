@@ -17,6 +17,7 @@ payload:
   - DOMAIN-SUFFIX,unpkg.com
   - DOMAIN-SUFFIX,ip.sb
   - DOMAIN-SUFFIX,gstatic.com
+  - DOMAIN,warden.5202885.xyz
   # Cloudflare 隐私 / ECH / DoH
   - DOMAIN-SUFFIX,nel.cloudflare.com
   - DOMAIN-SUFFIX,cloudflare-ech.com
